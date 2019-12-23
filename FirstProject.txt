@@ -1,6 +1,6 @@
-Selenium indro
-webdrier
+Selenium introduction
+webdriver
 BDD
 Framework
-hybrid frame work
-data drien framework
+Hybrid frame work
+Data drien framework
